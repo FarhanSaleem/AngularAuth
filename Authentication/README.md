@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 # Description
 
-This project is to showcase Angular authentication.
+This project is to showcase Angular authentication with examples.
 
 ## Development server
 
