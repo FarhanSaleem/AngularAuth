@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 # Description
 
-This project is to showcase Angular authentication with examples. Test Gitlab integration as well with Gitlab Runner pipelines.
+This project is to showcase Angular authentication with examples. Also to Test Github actions workflow for automatic deployment to S3 as well.
 
 ## Development server
 
